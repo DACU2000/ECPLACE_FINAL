@@ -1,9 +1,10 @@
-# ECPLACE
+# Proyecto ECPLACE IDGS10B
 
-Build ECommerce Website Like Amazon by Next.js
+Bienvenido a nuestro proyecto de comercio electronico completamente funcional basado en el siguiente video tutorial...
 
-- Source Code    :  https://github.com/basir/next-amazona
-- Demo Website :  https://nextjs-amazona-final.vercel.app
+# Video Tutorial
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fy9SdZLBTOo/0.jpg)](https://www.youtube.com/watch?v=Fy9SdZLBTOo)
 
 ## What you will learn
 
@@ -19,8 +20,8 @@ Build ECommerce Website Like Amazon by Next.js
 ## Run it Locally
 
 ```
-$ git clone https://github.com/basir/next-amazona
-$ cd next-amazona
+$ git clone https://github.com/DACU2000/ECPLACE_FINAL
+$ cd ECPLACE_FINAL
 $ npm install
 $ npm run dev
 $ Open http://localhost:3000/api/seed
